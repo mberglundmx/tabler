@@ -61,7 +61,7 @@ jekyll_tidy:
   ignore_env: development
 
 base_color: '#467fcf'
-github_url: https://github.com/tabler/tabler
+github_url: https://github.com/mberglundmx/tabler
 
 author:
    name: codecalm.net
