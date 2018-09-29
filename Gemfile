@@ -3,4 +3,5 @@ source 'https://rubygems.org' do
   gem 'jekyll-redirect-from'
   gem 'jekyll-toc'
   gem 'jekyll-random'
+  gem 'jekyll'
 end
