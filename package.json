@@ -13,7 +13,7 @@
     "dashboard",
     "admin panel"
   ],
-  "homepage": "https://tabler.github.io",
+  "homepage": "https://competent-meitner-b6b53a.netlify.com/",
   "scripts": {
     "gulp-watch": "gulp watch",
     "gulp-build": "gulp build",
